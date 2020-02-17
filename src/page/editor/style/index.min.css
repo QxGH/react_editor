@@ -1,0 +1,1 @@
+.editor{height:100%;display:flex}.editor .body-layout{flex-direction:row}.editor .sider{width:350px;flex:0 0 350px;background:#f6f6f6}.editor .content{flex:auto;overflow-y:auto}
